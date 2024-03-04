@@ -10,7 +10,7 @@ Learning:
 
 Course: The Complete Python Pro Bootcamp by Dr. Angela Yu
 
-# Sample Module: Day 18, Turtle and the Graphic User Interface from The Complete Python Pro Bootcamp for 2023 with Dr. Angela Yu
+# Sample Module 1: Turtle and the Graphic User Interface from The Complete Python Pro Bootcamp for 2023 with Dr. Angela Yu
 Intermediate Python Coding using the turtle module and Graphic User Interface
 
 [![Watch the Video](http://img.youtube.com/vi/gPPB7nh1KM4/0.jpg)](http://www.youtube.com/watch?v=gPPB7nh1KM4 "Python Turtle Project: from Angela Yu's Python Udemy Course Day 18")
@@ -34,4 +34,18 @@ Drew a spirograph with a radius of 100, 120 circlues, anglel increment of 3, usi
 ## Final Project: The Hirst Painting
 Used colorgram.py to extract colors from an image and saved a list of tuples with the different RGBs.
 Moving top to bottom, I filled 10 random colored dots across the screen from left to right, 50 paces apart, dot size of 1 filled color.
+
+
+# Sample Module 2: Instance State & Higher Functions from Complete Python Pro Bootcamp for 2023 with Dr. Angela Yu
+
+This module contains code examples and explanations related to the concept of "Instance State" and explores the use of "Higher-Order Functions" in Python.  Understanding how instance state works and how to utilize higher-order functions can greatly enhance your proficiency in Python programming. Dive into the code and documentation to grasp these fundamental concepts and apply them to your own projects.
+
+__**Built an Etch-A-Sketch App**__<br><br>
+
+__**Developed and Raced Turtles**__
+
+[![Watch the Video](https://img.youtube.com/vi/MoIYiR9YDw8/0.jpg)](https://www.youtube.com/watch?v=MoIYiR9YDw8 "Turtle Race Project: from Angela Yu's Python Udemy Course Day 19")
+
+
+
 
