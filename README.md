@@ -1,4 +1,16 @@
-# Day 18, Turtle and the Graphic User Interface, from 100 Days of Code: The Complete Python Pro Bootcamp for 2023 with Angela Yu
+Learning:
+
+1. Python programming language by building unique projects.
+2. Automation, game, app and web development, data science and machine learning all using Python.
+3. Learning Selenium, Beautiful Soup, Request, Flask, Pandas, NumPy, Scikit Learn, Plotly, and Matplotlib.
+4. Building basic websites and web apps with Python
+5. Using Python for data science and machine learning
+6. Building games like Blackjack, Pong and Snake using Python
+7. Building GUIs and Desktop applications with Python
+
+Course: The Complete Python Pro Bootcamp by Dr. Angela Yu
+
+# Sample Module: Day 18, Turtle and the Graphic User Interface from The Complete Python Pro Bootcamp for 2023 with Dr. Angela Yu
 Intermediate Python Coding using the turtle module and Graphic User Interface
 
 [![Watch the Video](http://img.youtube.com/vi/gPPB7nh1KM4/0.jpg)](http://www.youtube.com/watch?v=gPPB7nh1KM4 "Python Turtle Project: from Angela Yu's Python Udemy Course Day 18")
